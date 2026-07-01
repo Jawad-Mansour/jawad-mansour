@@ -482,6 +482,26 @@ Led a multidisciplinary team comparing ML and DL approaches to fraud detection a
 
 <br/>
 
+---
+
+### `> lang.distribution()`
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-Mansour&layout=donut&hide_border=true&langs_count=8&count_private=true&custom_title=Languages%20I%20Build%20With&bg_color=0d1117&title_color=2dd4bf&text_color=8b949e" alt="Programming Languages"/>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:134e4a,100:7c3aed&height=100&text=Training%20a%20model%20is%20homework.%20Running%20one%20is%20the%20job.&fontSize=22&fontColor=ffffff&fontAlignY=42&desc=Mohamad%20El%20Jawad%20Mansour&descSize=15&descAlignY=68&descColor=2dd4bf" width="100%"/>
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,60:134e4a,100:0d1117&height=120&section=footer&reversal=false" width="100%"/>
 </div>
