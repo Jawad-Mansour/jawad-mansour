@@ -75,37 +75,36 @@ Trilingual (Arabic · French · English), based in Beirut, with a hard bias towa
 
 **— AI · LLM · Agentic · RAG —**
 
-<table>
-<tr>
-<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" width="48" height="48" alt="LangChain"/><br/><sub>LangChain</sub></td>
-<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="48" height="48" alt="LangGraph"/><br/><sub>LangGraph</sub></td>
-<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langsmith-color.svg" width="48" height="48" alt="LangSmith"/><br/><sub>LangSmith</sub></td>
-<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" width="48" height="48" alt="Ollama"/><br/><sub>Ollama</sub></td>
-<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/huggingface-color.svg" width="48" height="48" alt="Hugging Face"/><br/><sub>HuggingFace</sub></td>
-<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" width="48" height="48" alt="Gemini"/><br/><sub>Gemini</sub></td>
-<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/pydanticai-color.svg" width="48" height="48" alt="PydanticAI"/><br/><sub>PydanticAI</sub></td>
-</tr>
-<tr>
-<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mcp.svg" width="48" height="48" alt="MCP"/><br/><sub>MCP</sub></td>
-<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n-color.svg" width="48" height="48" alt="n8n"/><br/><sub>n8n</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="46" height="46" alt="MLflow"/><br/><sub>MLflow</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/qdrant/DC244C" width="46" height="46" alt="Qdrant"/><br/><sub>Qdrant</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/minio/C72E49" width="46" height="46" alt="MinIO"/><br/><sub>MinIO</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="46" height="46" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="46" height="46" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
-</tr>
-<tr>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/keras/D00000" width="46" height="46" alt="Keras"/><br/><sub>Keras</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="46" height="46" alt="scikit-learn"/><br/><sub>scikit-learn</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/onnx/005CED" width="46" height="46" alt="ONNX"/><br/><sub>ONNX</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/numpy/4DABCF" width="46" height="46" alt="NumPy"/><br/><sub>NumPy</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/pandas/150458" width="46" height="46" alt="pandas"/><br/><sub>pandas</sub></td>
-<td align="center" width="90"></td>
-<td align="center" width="90"></td>
-</tr>
-</table>
-
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" width="50" height="50" alt="LangChain"/>&nbsp;&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="50" height="50" alt="LangGraph"/>&nbsp;&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langsmith-color.svg" width="50" height="50" alt="LangSmith"/>&nbsp;&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" width="50" height="50" alt="Ollama"/>&nbsp;&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/huggingface-color.svg" width="50" height="50" alt="Hugging Face"/>&nbsp;&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/pydanticai-color.svg" width="50" height="50" alt="PydanticAI"/>&nbsp;&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mcp.svg" width="50" height="50" alt="MCP"/>&nbsp;&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n-color.svg" width="50" height="50" alt="n8n"/>
+<br/><br/>
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="46" height="46" alt="MLflow"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/qdrant/DC244C" width="46" height="46" alt="Qdrant"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/minio/C72E49" width="46" height="46" alt="MinIO"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="46" height="46" alt="PyTorch"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="46" height="46" alt="TensorFlow"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/keras/D00000" width="46" height="46" alt="Keras"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="46" height="46" alt="scikit-learn"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/onnx/005CED" width="46" height="46" alt="ONNX"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/numpy/4DABCF" width="46" height="46" alt="NumPy"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" width="46" height="46" alt="pandas"/>
+<br/><br/>
 <code>ChromaDB</code> &nbsp; <code>FAISS</code> &nbsp; <code>pgvector</code> &nbsp; <code>RAGAS</code> &nbsp; <code>NeMo Guardrails</code>
+
+**— AI Models &amp; Assistants —**
+
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" width="50" height="50" alt="Claude"/>&nbsp;&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="50" height="50" alt="ChatGPT"/>&nbsp;&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" width="50" height="50" alt="Gemini"/>&nbsp;&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg" width="50" height="50" alt="DeepSeek"/>&nbsp;&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex.svg" width="50" height="50" alt="Codex"/>&nbsp;&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" width="50" height="50" alt="Claude Code"/>
 
 <br/>
 
