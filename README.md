@@ -35,20 +35,40 @@ Trilingual (Arabic · French · English), based in Beirut, with a hard bias towa
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
-<b>Agentic Systems</b><br/><br/>
-LangGraph supervisors, multi-agent topologies, HITL gates, checkpoint persistence
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" height="40" alt=""/>
+<br/><br/>
+<b>Agentic Systems</b>
+<br/>
+<sub>─────────────</sub>
+<br/><br/>
+LangGraph supervisors · multi-agent topologies · HITL gates · checkpoint persistence
 </td>
 <td width="25%" align="center" valign="top">
-<b>Advanced RAG</b><br/><br/>
-Hybrid retrieval, cross-encoder rerank, query transforms, RAGAS-evaluated
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" height="40" alt=""/>
+<br/><br/>
+<b>Advanced RAG</b>
+<br/>
+<sub>─────────────</sub>
+<br/><br/>
+Hybrid retrieval · cross-encoder rerank · query transforms · RAGAS-evaluated
 </td>
 <td width="25%" align="center" valign="top">
-<b>MLOps &amp; Serving</b><br/><br/>
-Model registry, PSI / chi² drift, self-healing retraining, ONNX-lean serving
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" height="38" alt=""/>
+<br/><br/>
+<b>MLOps &amp; Serving</b>
+<br/>
+<sub>─────────────</sub>
+<br/><br/>
+Model registry · PSI / chi² drift · self-healing retraining · ONNX-lean serving
 </td>
 <td width="25%" align="center" valign="top">
-<b>Production Systems</b><br/><br/>
-Multi-tenant RLS isolation, guardrails, idempotent queues, CI eval gates
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="38" alt=""/>
+<br/><br/>
+<b>Production Systems</b>
+<br/>
+<sub>─────────────</sub>
+<br/><br/>
+Multi-tenant RLS isolation · guardrails · idempotent queues · CI eval gates
 </td>
 </tr>
 </table>
@@ -63,26 +83,26 @@ Multi-tenant RLS isolation, guardrails, idempotent queues, CI eval gates
 
 **— AI · LLM · Agentic · RAG —**
 
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" height="44" alt="LangChain"/>&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" height="44" alt="LangGraph"/>&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langsmith-color.svg" height="44" alt="LangSmith"/>&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" height="44" alt="Ollama"/>&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/huggingface-color.svg" height="44" alt="Hugging Face"/>&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" height="44" alt="Google Gemini"/>&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/pydanticai-color.svg" height="44" alt="PydanticAI"/>&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mcp.svg" height="44" alt="MCP"/>&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n-color.svg" height="44" alt="n8n"/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" height="48" alt="LangChain"/>&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" height="48" alt="LangGraph"/>&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langsmith-color.svg" height="48" alt="LangSmith"/>&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" height="48" alt="Ollama"/>&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/huggingface-color.svg" height="48" alt="Hugging Face"/>&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" height="48" alt="Google Gemini"/>&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/pydanticai-color.svg" height="48" alt="PydanticAI"/>&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mcp.svg" height="48" alt="MCP"/>&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n-color.svg" height="48" alt="n8n"/>
 <br/><br/>
-<img src="https://cdn.simpleicons.org/mlflow/0194E2" height="38" alt="MLflow"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/qdrant/DC244C" height="38" alt="Qdrant"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/minio/C72E49" height="38" alt="MinIO"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="38" alt="PyTorch"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="38" alt="TensorFlow"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/keras/D00000" height="38" alt="Keras"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="38" alt="scikit-learn"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/onnx/005CED" height="38" alt="ONNX"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/numpy/4DABCF" height="38" alt="NumPy"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" height="38" alt="pandas"/>
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48" alt="MLflow"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48" alt="Qdrant"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/minio/C72E49" height="48" alt="MinIO"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="48" alt="PyTorch"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48" alt="TensorFlow"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/keras/D00000" height="48" alt="Keras"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt="scikit-learn"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/onnx/005CED" height="48" alt="ONNX"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/numpy/4DABCF" height="48" alt="NumPy"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="pandas"/>
 <br/><br/>
 <code>ChromaDB</code> &nbsp; <code>FAISS</code> &nbsp; <code>pgvector</code> &nbsp; <code>RAGAS</code> &nbsp; <code>NeMo Guardrails</code>
 
@@ -142,7 +162,7 @@ Multi-tenant RLS isolation, guardrails, idempotent queues, CI eval gates
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" height="50" alt=""/>
+<img src="https://api.iconify.design/lucide/warehouse.svg?color=%232dd4bf&width=56&height=56" height="52" alt=""/>
 
 #### [Mawrid v1 — Multi-Tenant Import SaaS](https://github.com/Jawad-Mansour/mawrid-ai-platform)
 
@@ -153,7 +173,7 @@ Multi-tenant platform that automates the full import cycle — supplier catalog 
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="https://cdn.simpleicons.org/onnx/005CED" height="48" alt=""/>
+<img src="https://api.iconify.design/lucide/building-2.svg?color=%232dd4bf&width=56&height=56" height="52" alt=""/>
 
 #### [Concierge — Multi-Tenant AI SaaS](https://github.com/Jawad-Mansour/concierge-ai-saas)
 
@@ -166,7 +186,7 @@ A SaaS where any business signs up, manages CMS content, and embeds an agent tha
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/huggingface-color.svg" height="50" alt=""/>
+<img src="https://api.iconify.design/lucide/bot-message-square.svg?color=%232dd4bf&width=56&height=56" height="52" alt=""/>
 
 #### [Maintainer's Copilot](https://github.com/Jawad-Mansour/maintainers-ai-copilot)
 
@@ -177,7 +197,7 @@ An authenticated copilot for open-source maintainers. **Fine-tuned encoder** for
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48" alt=""/>
+<img src="https://api.iconify.design/lucide/activity-square.svg?color=%232dd4bf&width=56&height=56" height="52" alt=""/>
 
 #### [Drift Triage Copilot](https://github.com/Jawad-Mansour/drift-triage-co-pilot)
 
@@ -197,7 +217,7 @@ A **self-healing MLOps stack**. Serves a model with MLflow, watches for drift **
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="48" alt=""/>
+<img src="https://api.iconify.design/lucide/scan-text.svg?color=%232dd4bf&width=56&height=56" height="52" alt=""/>
 
 #### [Document Classifier Service](https://github.com/Jawad-Mansour/doc-classifier-service)
 
@@ -208,7 +228,7 @@ Fine-tuned a **ConvNeXt** backbone on **320k document images** (RVL-CDIP, 16 cla
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" height="50" alt=""/>
+<img src="https://api.iconify.design/lucide/scale-3d.svg?color=%232dd4bf&width=56&height=56" height="52" alt=""/>
 
 #### [Decision Intelligence Assistant](https://github.com/Jawad-Mansour/decision-assistant)
 
@@ -221,7 +241,7 @@ A **four-way comparison** engine — RAG vs. non-RAG vs. trained ML classifier v
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" height="50" alt=""/>
+<img src="https://api.iconify.design/lucide/plane.svg?color=%232dd4bf&width=56&height=56" height="52" alt=""/>
 
 #### [Smart Travel Planner](https://github.com/Jawad-Mansour/smart-travel-planner)
 
@@ -232,7 +252,7 @@ An agent that matches travelers to destinations. **Trained ML classifier** for t
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt=""/>
+<img src="https://api.iconify.design/lucide/building-2.svg?color=%232dd4bf&width=56&height=56" height="52" alt=""/>
 
 #### [AI Real Estate Agent](https://github.com/Jawad-Mansour/real-estate-agent)
 
@@ -252,7 +272,7 @@ A **two-stage LLM prompt chain** connected by an ML prediction: Stage 1 extracts
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" height="48" alt=""/>
+<img src="https://api.iconify.design/lucide/banknote.svg?color=%232dd4bf&width=56&height=56" height="52" alt=""/>
 
 #### [Salary Prediction App](https://github.com/Jawad-Mansour/salary-prediction-app)
 
@@ -263,7 +283,7 @@ End-to-end ML pipeline: a Decision Tree served through a FastAPI endpoint, resul
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="48" alt=""/>
+<img src="https://api.iconify.design/lucide/shield-alert.svg?color=%232dd4bf&width=56&height=56" height="52" alt=""/>
 
 #### FYP — Credit Card Fraud Detection <sub>(R&amp;D)</sub>
 
@@ -281,7 +301,7 @@ Led a multidisciplinary team comparing ML and DL approaches to fraud detection a
 
 ---
 
-### `> git log --stat`
+### `> git log --stats`
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jawad-Mansour&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=2dd4bf&icon_color=7c3aed&text_color=8b949e&border_color=30363d" alt="GitHub Stats" />
@@ -330,36 +350,60 @@ Led a multidisciplinary team comparing ML and DL approaches to fraud detection a
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-
-**SE Factory**<br/><sub>AI Engineering Bootcamp — 8 weeks: ML, DL, NLP, RAG, agentic AI, MLOps, production engineering</sub>
-
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%237c3aed&width=38&height=38" height="36" alt=""/>
+<br/><br/>
+<b>SE Factory</b>
+<br/>
+<sub>AI Engineering Bootcamp</sub>
+<br/><br/>
+<sub>8 weeks — ML · DL · NLP · RAG · agentic AI · MLOps · production engineering</sub>
 </td>
 <td width="33%" align="center" valign="top">
-
-**Certiport / Pearson VUE**<br/><sub>IC3 Digital Literacy — Computing Fundamentals · Key Applications · Living Online</sub>
-
+<img src="https://api.iconify.design/lucide/badge-check.svg?color=%232dd4bf&width=38&height=38" height="36" alt=""/>
+<br/><br/>
+<b>Certiport / Pearson VUE</b>
+<br/>
+<sub>IC3 Digital Literacy</sub>
+<br/><br/>
+<sub>Computing Fundamentals · Key Applications · Living Online</sub>
 </td>
 <td width="33%" align="center" valign="top">
-
-**Apex Center**<br/><sub>Mobile Application Development using Flutter — 40-hour hands-on course</sub>
-
+<img src="https://cdn.simpleicons.org/flutter/02569B" height="34" alt=""/>
+<br/><br/>
+<b>Apex Center</b>
+<br/>
+<sub>Mobile App Development — Flutter</sub>
+<br/><br/>
+<sub>40-hour hands-on course</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" align="center" valign="top">
-
-**Udemy**<br/><sub>The Git &amp; GitHub Bootcamp — Colt Steele</sub>
-
+<img src="https://cdn.simpleicons.org/git/F05032" height="34" alt=""/>
+<br/><br/>
+<b>Udemy</b>
+<br/>
+<sub>The Git &amp; GitHub Bootcamp</sub>
+<br/><br/>
+<sub>Colt Steele — 17 hours</sub>
 </td>
 <td width="33%" align="center" valign="top">
-
-**AWS** <sub>(in progress)</sub><br/><sub>AWS Certified — Cloud fundamentals &amp; services</sub>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="34" alt=""/>
+<br/><br/>
+<b>AWS</b> <sub>· in progress</sub>
+<br/>
+<sub>AWS Certified</sub>
+<br/><br/>
+<sub>Cloud fundamentals &amp; services</sub>
 </td>
 <td width="33%" align="center" valign="top">
-
-**Beirut Arab University**<br/><sub>B.S. Computer Science — 2025</sub>
-
+<img src="https://api.iconify.design/lucide/school.svg?color=%232dd4bf&width=38&height=38" height="36" alt=""/>
+<br/><br/>
+<b>Beirut Arab University</b>
+<br/>
+<sub>B.S. Computer Science</sub>
+<br/><br/>
+<sub>2025</sub>
 </td>
 </tr>
 </table>
