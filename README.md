@@ -4,19 +4,7 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=2DD4BF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Agentic+Systems+%E2%80%94+LangGraph+supervisors+%26+multi-agent+topologies;RAG+from+naive+to+hybrid+%2B+rerank+%2B+RAGAS+evals;MLOps+%E2%80%94+drift+detection%2C+registries%2C+self-healing+pipelines;Multi-tenant+AI+SaaS+%E2%80%94+RLS+isolation%2C+guardrails%2C+CI+gates;I+don't+just+train+models.+I+ship+them+behind+auth." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamad-el-jawad-mansour-1805b831b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="https://github.com/Jawad-Mansour" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=ffffff" alt="GitHub"/></a>
-  <a href="mailto:mansourmohamadeljawad113@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-  <a href="https://wa.me/96170656797" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&labelColor=0d1117&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/></a>
-  <a href="https://x.com/" target="_blank"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&labelColor=0d1117&logo=x&logoColor=ffffff" alt="X"/></a>
-  <img src="https://img.shields.io/badge/Portfolio-soon-0d1117?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=ffffff" alt="Portfolio"/>
-  <img src="https://img.shields.io/badge/Beirut,_Lebanon-0d1117?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=2dd4bf" alt="Location"/>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/mohamad-el-jawad-mansour-1805b831b" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&logo=linkedin-white&logoColor=0A66C2" alt="LinkedIn"/></a><a href="https://github.com/Jawad-Mansour" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-0d1117?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub"/></a><a href="mailto:mansourmohamadeljawad113@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-0d1117?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=EA4335" alt="Email"/></a><a href="https://wa.me/96170656797" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/WhatsApp-0d1117?style=for-the-badge&labelColor=0d1117&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/></a><a href="https://x.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/X-0d1117?style=for-the-badge&labelColor=0d1117&logo=x&logoColor=white" alt="X"/></a><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-soon-0d1117?style=for-the-badge&labelColor=0d1117&logo=globe&logoColor=8b949e" alt="Portfolio"/><img src="https://custom-icon-badges.demolab.com/badge/Beirut,_Lebanon-0d1117?style=for-the-badge&labelColor=0d1117&logo=location&logoColor=2dd4bf" alt="Location"/></p>
 
 <br/>
 
@@ -451,12 +439,7 @@ Led a multidisciplinary team comparing ML and DL approaches to fraud detection a
 
 ### `> ./connect.sh`
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohamad-el-jawad-mansour-1805b831b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="https://github.com/Jawad-Mansour" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=ffffff" alt="GitHub"/></a>
-  <a href="mailto:mansourmohamadeljawad113@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-  <a href="https://wa.me/96170656797" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&labelColor=0d1117&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/></a>
-</div>
+<div align="center"><a href="https://www.linkedin.com/in/mohamad-el-jawad-mansour-1805b831b" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&logo=linkedin-white&logoColor=0A66C2" alt="LinkedIn"/></a><a href="https://github.com/Jawad-Mansour" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-0d1117?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub"/></a><a href="mailto:mansourmohamadeljawad113@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-0d1117?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=EA4335" alt="Email"/></a><a href="https://wa.me/96170656797" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/WhatsApp-0d1117?style=for-the-badge&labelColor=0d1117&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/></a></div>
 
 <br/>
 
