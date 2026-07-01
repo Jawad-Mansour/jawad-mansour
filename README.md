@@ -329,14 +329,7 @@ Led a multidisciplinary team comparing ML and DL approaches to fraud detection a
 ### `> git log --stats`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jawad-Mansour&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=2dd4bf&icon_color=7c3aed&text_color=8b949e&border_color=30363d" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Jawad-Mansour&hide_border=true&background=0D1117&stroke=30363d&ring=2dd4bf&fire=7c3aed&currStreakLabel=2dd4bf&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&dayLabels=8b949e" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-Mansour&layout=compact&hide_border=true&langs_count=12&count_private=true&custom_title=Languages%20I%20Build%20With&bg_color=0d1117&title_color=2dd4bf&text_color=8b949e&border_color=30363d" alt="Top Languages"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Jawad-Mansour&hide_border=true&background=0D1117&stroke=30363d&ring=2dd4bf&fire=7c3aed&currStreakLabel=2dd4bf&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&dayLabels=8b949e" alt="GitHub Streak" />
 </div>
 
 <br/>
