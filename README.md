@@ -336,7 +336,7 @@ Led a multidisciplinary team comparing ML and DL approaches to fraud detection a
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-Mansour&layout=compact&hide_border=true&langs_count=12&count_private=true&bg_color=0d1117&title_color=2dd4bf&text_color=8b949e&border_color=30363d" alt="Top Languages"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-Mansour&layout=compact&hide_border=true&langs_count=12&count_private=true&custom_title=Languages%20I%20Build%20With&bg_color=0d1117&title_color=2dd4bf&text_color=8b949e&border_color=30363d" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -478,16 +478,6 @@ Led a multidisciplinary team comparing ML and DL approaches to fraud detection a
 </tr>
 </table>
 
-</div>
-
-<br/>
-
----
-
-### `> lang.distribution()`
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-Mansour&layout=donut&hide_border=true&langs_count=8&count_private=true&custom_title=Languages%20I%20Build%20With&bg_color=0d1117&title_color=2dd4bf&text_color=8b949e" alt="Programming Languages"/>
 </div>
 
 <br/>
