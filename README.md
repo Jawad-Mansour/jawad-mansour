@@ -87,6 +87,29 @@ Trilingual (Arabic · French · English), based in Beirut, with a hard bias towa
 <sub>LoRA · PEFT · Seamless M4T · quantization · GGUF · Ollama serving</sub>
 </td>
 </tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide/languages.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>
+<br/><br/>
+<b>NLP</b>
+<br/><br/>
+<sub>Transformers · BERT/DistilBERT · NER · summarization · embeddings · TF-IDF</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide/boxes.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>
+<br/><br/>
+<b>Multi-Tenant SaaS</b>
+<br/><br/>
+<sub>Tenant isolation · RLS · provisioning &amp; erasure · per-tenant cost &amp; rate limits</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide/lock.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>
+<br/><br/>
+<b>Guardrails &amp; Safety</b>
+<br/><br/>
+<sub>NeMo rails · prompt-injection defense · PII redaction · cross-tenant red-team CI</sub>
+</td>
+</tr>
 </table>
 
 <br/>
@@ -440,13 +463,16 @@ Led a multidisciplinary team comparing ML and DL approaches to fraud detection a
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamad-el-jawad-mansour-1805b831b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="mailto:mansourmohamadeljawad113@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=2dd4bf" alt="LinkedIn"/>
+  </a>
   <a href="https://github.com/Jawad-Mansour" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=ffffff" alt="GitHub"/>
+  </a>
+  <a href="mailto:mansourmohamadeljawad113@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=7c3aed" alt="Email"/>
+  </a>
+  <a href="https://wa.me/96170656797" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&labelColor=0d1117&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
   </a>
 </div>
 
