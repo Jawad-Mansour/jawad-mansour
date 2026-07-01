@@ -445,10 +445,38 @@ Led a multidisciplinary team comparing ML and DL approaches to fraud detection a
 
 <div align="center">
 
-```
-Open to AI / ML Engineer · Data Scientist roles
-Beirut, Lebanon · On-site · Hybrid · Remote
-```
+<table>
+<tr>
+<td align="center" valign="middle">
+<img src="https://api.iconify.design/lucide/circle-check-big.svg?color=%232dd4bf&width=30&height=30" width="28" height="28" alt=""/>
+<br/>
+<b>Status</b>
+<br/>
+<sub>Open to work</sub>
+</td>
+<td align="center" valign="middle">
+<img src="https://api.iconify.design/lucide/briefcase.svg?color=%232dd4bf&width=30&height=30" width="28" height="28" alt=""/>
+<br/>
+<b>Roles</b>
+<br/>
+<sub>AI / ML Engineer · Data Scientist</sub>
+</td>
+<td align="center" valign="middle">
+<img src="https://api.iconify.design/lucide/map-pin.svg?color=%232dd4bf&width=30&height=30" width="28" height="28" alt=""/>
+<br/>
+<b>Location</b>
+<br/>
+<sub>Beirut, Lebanon</sub>
+</td>
+<td align="center" valign="middle">
+<img src="https://api.iconify.design/lucide/globe.svg?color=%232dd4bf&width=30&height=30" width="28" height="28" alt=""/>
+<br/>
+<b>Work type</b>
+<br/>
+<sub>On-site · Hybrid · Remote</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
