@@ -32,38 +32,17 @@ Most models die in a notebook. Mine run behind `docker compose up` — with **mo
 
 Trilingual (Arabic · French · English), based in Beirut, with a hard bias toward **clean architecture and code I can defend line by line.**
 
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="52" height="52" alt=""/>
-<br/><br/>
-<b>Agentic Systems</b>
-<br/><br/>
-<sub>LangGraph supervisors · multi-agent topologies · HITL gates · checkpoint persistence</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" width="52" height="52" alt=""/>
-<br/><br/>
-<b>Advanced RAG</b>
-<br/><br/>
-<sub>Hybrid retrieval · cross-encoder rerank · query transforms · RAGAS-evaluated</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="46" height="46" alt=""/>
-<br/><br/>
-<b>MLOps &amp; Serving</b>
-<br/><br/>
-<sub>Model registry · PSI / chi² drift · self-healing retraining · ONNX-lean serving</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="46" height="46" alt=""/>
-<br/><br/>
-<b>Production Systems</b>
-<br/><br/>
-<sub>Multi-tenant RLS isolation · guardrails · idempotent queues · CI eval gates</sub>
-</td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="46" height="46" alt=""/>&nbsp;&nbsp;**Agentic Systems** &nbsp;—&nbsp; <sub>LangGraph supervisors · multi-agent topologies · HITL gates · checkpoint persistence</sub>
+
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" width="46" height="46" alt=""/>&nbsp;&nbsp;**Advanced RAG** &nbsp;—&nbsp; <sub>Hybrid retrieval · cross-encoder rerank · query transforms · RAGAS-evaluated</sub>
+
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="42" height="42" alt=""/>&nbsp;&nbsp;**MLOps &amp; Serving** &nbsp;—&nbsp; <sub>Model registry · PSI / chi² drift · self-healing retraining · ONNX-lean serving</sub>
+
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="42" height="42" alt=""/>&nbsp;&nbsp;**Production Systems** &nbsp;—&nbsp; <sub>Multi-tenant RLS isolation · guardrails · idempotent queues · CI eval gates</sub>
+
+</div>
 
 <br/>
 
