@@ -34,13 +34,13 @@ Trilingual (Arabic · French · English), based in Beirut, with a hard bias towa
 
 <div align="center">
 
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="46" height="46" alt=""/>&nbsp;&nbsp;**Agentic Systems** &nbsp;—&nbsp; <sub>LangGraph supervisors · multi-agent topologies · HITL gates · checkpoint persistence</sub>
+<img src="https://api.iconify.design/lucide/workflow.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>&nbsp;&nbsp;**Agentic Systems** &nbsp;—&nbsp; <sub>LangGraph supervisors · multi-agent topologies · HITL gates · checkpoint persistence</sub>
 
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" width="46" height="46" alt=""/>&nbsp;&nbsp;**Advanced RAG** &nbsp;—&nbsp; <sub>Hybrid retrieval · cross-encoder rerank · query transforms · RAGAS-evaluated</sub>
+<img src="https://api.iconify.design/lucide/database.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>&nbsp;&nbsp;**Advanced RAG** &nbsp;—&nbsp; <sub>Hybrid retrieval · cross-encoder rerank · query transforms · RAGAS-evaluated</sub>
 
-<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="42" height="42" alt=""/>&nbsp;&nbsp;**MLOps &amp; Serving** &nbsp;—&nbsp; <sub>Model registry · PSI / chi² drift · self-healing retraining · ONNX-lean serving</sub>
+<img src="https://api.iconify.design/lucide/gauge.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>&nbsp;&nbsp;**MLOps &amp; Serving** &nbsp;—&nbsp; <sub>Model registry · PSI / chi² drift · self-healing retraining · ONNX-lean serving</sub>
 
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="42" height="42" alt=""/>&nbsp;&nbsp;**Production Systems** &nbsp;—&nbsp; <sub>Multi-tenant RLS isolation · guardrails · idempotent queues · CI eval gates</sub>
+<img src="https://api.iconify.design/lucide/shield-check.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>&nbsp;&nbsp;**Production Systems** &nbsp;—&nbsp; <sub>Multi-tenant RLS isolation · guardrails · idempotent queues · CI eval gates</sub>
 
 </div>
 
