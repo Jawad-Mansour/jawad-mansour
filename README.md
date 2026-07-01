@@ -10,14 +10,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamad-el-jawad-mansour-1805b831b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2dd4bf?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=2dd4bf" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=2dd4bf" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Jawad-Mansour" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=ffffff" alt="GitHub"/>
+  </a>
   <a href="mailto:mansourmohamadeljawad113@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach_out-7c3aed?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=7c3aed" />
-  </a>&nbsp;
-  <img src="https://img.shields.io/badge/Portfolio-Under_construction-8b949e?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=8b949e" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Beirut,_Lebanon-134e4a?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=2dd4bf" />
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=7c3aed" alt="Email"/>
+  </a>
+  <a href="https://wa.me/96170656797" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&labelColor=0d1117&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
+  </a>
+  <a href="https://x.com/" target="_blank">
+    <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&labelColor=0d1117&logo=x&logoColor=ffffff" alt="X"/>
+  </a>
+  <img src="https://img.shields.io/badge/Portfolio-soon-0d1117?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=8b949e" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Beirut,_Lebanon-0d1117?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=2dd4bf" alt="Location"/>
 </p>
 
 <br/>
