@@ -35,40 +35,32 @@ Trilingual (Arabic · French · English), based in Beirut, with a hard bias towa
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" height="40" alt=""/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="52" height="52" alt=""/>
 <br/><br/>
 <b>Agentic Systems</b>
-<br/>
-<sub>─────────────</sub>
 <br/><br/>
-LangGraph supervisors · multi-agent topologies · HITL gates · checkpoint persistence
+<sub>LangGraph supervisors · multi-agent topologies · HITL gates · checkpoint persistence</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" height="40" alt=""/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" width="52" height="52" alt=""/>
 <br/><br/>
 <b>Advanced RAG</b>
-<br/>
-<sub>─────────────</sub>
 <br/><br/>
-Hybrid retrieval · cross-encoder rerank · query transforms · RAGAS-evaluated
+<sub>Hybrid retrieval · cross-encoder rerank · query transforms · RAGAS-evaluated</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img src="https://cdn.simpleicons.org/mlflow/0194E2" height="38" alt=""/>
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="46" height="46" alt=""/>
 <br/><br/>
 <b>MLOps &amp; Serving</b>
-<br/>
-<sub>─────────────</sub>
 <br/><br/>
-Model registry · PSI / chi² drift · self-healing retraining · ONNX-lean serving
+<sub>Model registry · PSI / chi² drift · self-healing retraining · ONNX-lean serving</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="38" alt=""/>
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="46" height="46" alt=""/>
 <br/><br/>
 <b>Production Systems</b>
-<br/>
-<sub>─────────────</sub>
 <br/><br/>
-Multi-tenant RLS isolation · guardrails · idempotent queues · CI eval gates
+<sub>Multi-tenant RLS isolation · guardrails · idempotent queues · CI eval gates</sub>
 </td>
 </tr>
 </table>
@@ -83,27 +75,36 @@ Multi-tenant RLS isolation · guardrails · idempotent queues · CI eval gates
 
 **— AI · LLM · Agentic · RAG —**
 
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" height="48" alt="LangChain"/>&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" height="48" alt="LangGraph"/>&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langsmith-color.svg" height="48" alt="LangSmith"/>&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" height="48" alt="Ollama"/>&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/huggingface-color.svg" height="48" alt="Hugging Face"/>&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" height="48" alt="Google Gemini"/>&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/pydanticai-color.svg" height="48" alt="PydanticAI"/>&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mcp.svg" height="48" alt="MCP"/>&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n-color.svg" height="48" alt="n8n"/>
-<br/><br/>
-<img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48" alt="MLflow"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48" alt="Qdrant"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/minio/C72E49" height="48" alt="MinIO"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="48" alt="PyTorch"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48" alt="TensorFlow"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/keras/D00000" height="48" alt="Keras"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt="scikit-learn"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/onnx/005CED" height="48" alt="ONNX"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/numpy/4DABCF" height="48" alt="NumPy"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="pandas"/>
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" width="48" height="48" alt="LangChain"/><br/><sub>LangChain</sub></td>
+<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="48" height="48" alt="LangGraph"/><br/><sub>LangGraph</sub></td>
+<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langsmith-color.svg" width="48" height="48" alt="LangSmith"/><br/><sub>LangSmith</sub></td>
+<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" width="48" height="48" alt="Ollama"/><br/><sub>Ollama</sub></td>
+<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/huggingface-color.svg" width="48" height="48" alt="Hugging Face"/><br/><sub>HuggingFace</sub></td>
+<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" width="48" height="48" alt="Gemini"/><br/><sub>Gemini</sub></td>
+<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/pydanticai-color.svg" width="48" height="48" alt="PydanticAI"/><br/><sub>PydanticAI</sub></td>
+</tr>
+<tr>
+<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mcp.svg" width="48" height="48" alt="MCP"/><br/><sub>MCP</sub></td>
+<td align="center" width="90"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n-color.svg" width="48" height="48" alt="n8n"/><br/><sub>n8n</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="46" height="46" alt="MLflow"/><br/><sub>MLflow</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/qdrant/DC244C" width="46" height="46" alt="Qdrant"/><br/><sub>Qdrant</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/minio/C72E49" width="46" height="46" alt="MinIO"/><br/><sub>MinIO</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="46" height="46" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="46" height="46" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
+</tr>
+<tr>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/keras/D00000" width="46" height="46" alt="Keras"/><br/><sub>Keras</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="46" height="46" alt="scikit-learn"/><br/><sub>scikit-learn</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/onnx/005CED" width="46" height="46" alt="ONNX"/><br/><sub>ONNX</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/numpy/4DABCF" width="46" height="46" alt="NumPy"/><br/><sub>NumPy</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/pandas/150458" width="46" height="46" alt="pandas"/><br/><sub>pandas</sub></td>
+<td align="center" width="90"></td>
+<td align="center" width="90"></td>
+</tr>
+</table>
+
 <code>ChromaDB</code> &nbsp; <code>FAISS</code> &nbsp; <code>pgvector</code> &nbsp; <code>RAGAS</code> &nbsp; <code>NeMo Guardrails</code>
 
 <br/>
