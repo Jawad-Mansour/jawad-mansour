@@ -9,22 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamad-el-jawad-mansour-1805b831b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=2dd4bf" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Jawad-Mansour" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=ffffff" alt="GitHub"/>
-  </a>
-  <a href="mailto:mansourmohamadeljawad113@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=7c3aed" alt="Email"/>
-  </a>
-  <a href="https://wa.me/96170656797" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&labelColor=0d1117&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
-  </a>
-  <a href="https://x.com/" target="_blank">
-    <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&labelColor=0d1117&logo=x&logoColor=ffffff" alt="X"/>
-  </a>
-  <img src="https://img.shields.io/badge/Portfolio-soon-0d1117?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=8b949e" alt="Portfolio"/>
+  <a href="https://www.linkedin.com/in/mohamad-el-jawad-mansour-1805b831b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://github.com/Jawad-Mansour" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=ffffff" alt="GitHub"/></a>
+  <a href="mailto:mansourmohamadeljawad113@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+  <a href="https://wa.me/96170656797" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&labelColor=0d1117&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/></a>
+  <a href="https://x.com/" target="_blank"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&labelColor=0d1117&logo=x&logoColor=ffffff" alt="X"/></a>
+  <img src="https://img.shields.io/badge/Portfolio-soon-0d1117?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=ffffff" alt="Portfolio"/>
   <img src="https://img.shields.io/badge/Beirut,_Lebanon-0d1117?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=2dd4bf" alt="Location"/>
 </p>
 
@@ -462,18 +452,10 @@ Led a multidisciplinary team comparing ML and DL approaches to fraud detection a
 ### `> ./connect.sh`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamad-el-jawad-mansour-1805b831b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=2dd4bf" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Jawad-Mansour" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=ffffff" alt="GitHub"/>
-  </a>
-  <a href="mailto:mansourmohamadeljawad113@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=7c3aed" alt="Email"/>
-  </a>
-  <a href="https://wa.me/96170656797" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&labelColor=0d1117&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
-  </a>
+  <a href="https://www.linkedin.com/in/mohamad-el-jawad-mansour-1805b831b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://github.com/Jawad-Mansour" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=ffffff" alt="GitHub"/></a>
+  <a href="mailto:mansourmohamadeljawad113@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+  <a href="https://wa.me/96170656797" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&labelColor=0d1117&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/></a>
 </div>
 
 <br/>
