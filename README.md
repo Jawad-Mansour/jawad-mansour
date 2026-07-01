@@ -32,17 +32,38 @@ Most models die in a notebook. Mine run behind `docker compose up` — with **mo
 
 Trilingual (Arabic · French · English), based in Beirut, with a hard bias toward **clean architecture and code I can defend line by line.**
 
-<div align="center">
-
-<img src="https://api.iconify.design/lucide/workflow.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>&nbsp;&nbsp;**Agentic Systems** &nbsp;—&nbsp; <sub>LangGraph supervisors · multi-agent topologies · HITL gates · checkpoint persistence</sub>
-
-<img src="https://api.iconify.design/lucide/database.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>&nbsp;&nbsp;**Advanced RAG** &nbsp;—&nbsp; <sub>Hybrid retrieval · cross-encoder rerank · query transforms · RAGAS-evaluated</sub>
-
-<img src="https://api.iconify.design/lucide/gauge.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>&nbsp;&nbsp;**MLOps &amp; Serving** &nbsp;—&nbsp; <sub>Model registry · PSI / chi² drift · self-healing retraining · ONNX-lean serving</sub>
-
-<img src="https://api.iconify.design/lucide/shield-check.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>&nbsp;&nbsp;**Production Systems** &nbsp;—&nbsp; <sub>Multi-tenant RLS isolation · guardrails · idempotent queues · CI eval gates</sub>
-
-</div>
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide/workflow.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>
+<br/><br/>
+<b>Agentic Systems</b>
+<br/><br/>
+<sub>LangGraph supervisors · multi-agent topologies · HITL gates · checkpoint persistence</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide/database.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>
+<br/><br/>
+<b>Advanced RAG</b>
+<br/><br/>
+<sub>Hybrid retrieval · cross-encoder rerank · query transforms · RAGAS-evaluated</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide/gauge.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>
+<br/><br/>
+<b>MLOps &amp; Serving</b>
+<br/><br/>
+<sub>Model registry · PSI / chi² drift · self-healing retraining · ONNX-lean serving</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide/shield-check.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>
+<br/><br/>
+<b>Production Systems</b>
+<br/><br/>
+<sub>Multi-tenant RLS isolation · guardrails · idempotent queues · CI eval gates</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
