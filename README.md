@@ -71,6 +71,7 @@ Multi-tenant RLS isolation, guardrails, idempotent queues, CI eval gates
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="Dart"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="PHP"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/css/663399" height="40" alt="CSS"/>
 
@@ -116,11 +117,13 @@ Multi-tenant RLS isolation, guardrails, idempotent queues, CI eval gates
 <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="GitHub"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="40" alt="pytest"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="Trello"/>
 
 **— Cloud &amp; Data —**
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="Jupyter"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" alt="Google Colab"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="40" alt="Kaggle"/>
@@ -132,7 +135,24 @@ Multi-tenant RLS isolation, guardrails, idempotent queues, CI eval gates
 <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="Vue"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" alt="Streamlit"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="Bootstrap"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="Vite"/>
+
+**— Databases —**
+
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="SQLite"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="40" alt="Supabase"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/qdrant/DC244C" height="40" alt="Qdrant"/>
+
+**— Mobile —**
+
+<img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="Flutter"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="Dart"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="Android Studio"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/firebase/DD2C00" height="40" alt="Firebase"/>
 
 </div>
 
