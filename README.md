@@ -34,33 +34,49 @@ Trilingual (Arabic · French · English), based in Beirut, with a hard bias towa
 
 <table>
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <img src="https://api.iconify.design/lucide/workflow.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>
 <br/><br/>
 <b>Agentic Systems</b>
 <br/><br/>
 <sub>LangGraph supervisors · multi-agent topologies · HITL gates · checkpoint persistence</sub>
 </td>
-<td width="25%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <img src="https://api.iconify.design/lucide/database.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>
 <br/><br/>
 <b>Advanced RAG</b>
 <br/><br/>
 <sub>Hybrid retrieval · cross-encoder rerank · query transforms · RAGAS-evaluated</sub>
 </td>
-<td width="25%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <img src="https://api.iconify.design/lucide/gauge.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>
 <br/><br/>
 <b>MLOps &amp; Serving</b>
 <br/><br/>
 <sub>Model registry · PSI / chi² drift · self-healing retraining · ONNX-lean serving</sub>
 </td>
-<td width="25%" align="center" valign="top">
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
 <img src="https://api.iconify.design/lucide/shield-check.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>
 <br/><br/>
 <b>Production Systems</b>
 <br/><br/>
 <sub>Multi-tenant RLS isolation · guardrails · idempotent queues · CI eval gates</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide/scan-eye.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>
+<br/><br/>
+<b>Deep Learning &amp; CV</b>
+<br/><br/>
+<sub>PyTorch · CNNs · GNNs · ConvNeXt · transfer learning · detection &amp; segmentation</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide/sliders-horizontal.svg?color=%232dd4bf&width=46&height=46" width="46" height="46" alt=""/>
+<br/><br/>
+<b>LLM Fine-Tuning</b>
+<br/><br/>
+<sub>LoRA · PEFT · Seamless M4T · quantization · GGUF · Ollama serving</sub>
 </td>
 </tr>
 </table>
