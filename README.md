@@ -100,7 +100,6 @@ Trilingual (Arabic · French · English), based in Beirut, with a hard bias towa
 
 **— AI · LLM · Agentic · RAG —**
 
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" width="50" height="50" alt="LangChain"/>&nbsp;&nbsp;&nbsp;
 <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="50" height="50" alt="LangGraph"/>&nbsp;&nbsp;&nbsp;
 <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langsmith-color.svg" width="50" height="50" alt="LangSmith"/>&nbsp;&nbsp;&nbsp;
 <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" width="50" height="50" alt="Ollama"/>&nbsp;&nbsp;&nbsp;
