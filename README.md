@@ -10,6 +10,16 @@
 
 ---
 
+<br/>
+
+<div align="center">
+  <img src="assets/terminal-card.svg" alt="Terminal profile card" width="100%"/>
+</div>
+
+<br/>
+
+---
+
 ### `> whoami`
 
 AI / ML Engineer who builds across the full stack — classical ML and deep learning through LLM fine-tuning, RAG, and multi-agent systems — and, more to the point, **ships them into production**: behind authenticated APIs, with CI gates, drift detection, and evals that fail the build when quality regresses.
@@ -334,7 +344,11 @@ Led a multidisciplinary team comparing ML and DL approaches to fraud detection a
 <br/>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jawad-Mansour&bg_color=0d1117&color=2dd4bf&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jawad-Mansour/Jawad-Mansour/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jawad-Mansour/Jawad-Mansour/output/snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Jawad-Mansour/Jawad-Mansour/output/snake.svg" width="98%"/>
+  </picture>
 </div>
 
 <br/>
