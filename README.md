@@ -345,10 +345,10 @@ Led a multidisciplinary team comparing ML and DL approaches to fraud detection a
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jawad-Mansour/Jawad-Mansour/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jawad-Mansour/Jawad-Mansour/output/snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Jawad-Mansour/Jawad-Mansour/output/snake.svg" width="98%"/>
-  </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jawad-Mansour/jawad-mansour/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jawad-Mansour/jawad-mansour/output/snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Jawad-Mansour/jawad-mansour/output/snake.svg" width="98%"/>
+</picture>
 </div>
 
 <br/>
