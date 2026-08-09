@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:134e4a,100:7c3aed&height=200&section=header&text=MOHAMAD%20EL%20JAWAD%20MANSOUR&fontSize=42&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Data%20Scientist&descSize=18&descAlignY=60&descColor=2dd4bf" width="100%"/>
+  <img src="assets/header.svg" alt="Mohamad El Jawad Mansour" width="100%"/>
 </div>
 
 <br/>
@@ -499,11 +499,5 @@ Led a multidisciplinary team comparing ML and DL approaches to fraud detection a
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:134e4a,100:7c3aed&height=100&text=Training%20a%20model%20is%20homework.%20Running%20one%20is%20the%20job.&fontSize=22&fontColor=ffffff&fontAlignY=42&desc=Mohamad%20El%20Jawad%20Mansour&descSize=15&descAlignY=68&descColor=2dd4bf" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,60:134e4a,100:0d1117&height=120&section=footer&reversal=false" width="100%"/>
+  <img src="assets/footer.svg" alt="Training a model is homework. Running one is the job." width="100%"/>
 </div>
